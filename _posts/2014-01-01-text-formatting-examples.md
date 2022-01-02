@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting Examples"
+title: "मानसोल्लास Text Formatting Examples"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
@@ -8,6 +8,8 @@ image: cards.jpg
 ---
 
 # Markdown Support
+
+
 
 As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
 
