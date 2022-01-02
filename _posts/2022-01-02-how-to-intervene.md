@@ -7,7 +7,8 @@ tags: [system,control]
 image: forest.jpg
 ---
 
-This note is about leverage points on where to intervene in a system. The objective being to influence the system towards some behavior that is better than the current state; with the the infleuncer being an individual with some stake in the system. People have intuitive understanding of where to intervene but  complex systems are counter-intuitive.
+
+Donella Meadows wrote an [article](https://www.bfi.org/sites/default/files/attachments/pages/PlacesInterveneSystem-Meadows.pdf) on leverage points on where to intervene in a system. The objective being to influence the system towards some behavior that is better than the current state; with the the infleuncer being an individual with some stake in the system. People have intuitive understanding of where to intervene but  complex systems are counter-intuitive. This note aims to summarize the key points from Donella's article and draws some comparisons with control systems. 
 
 1. Parameters are the least useful. If there is a bath-tub hole in the system, irrespective of the flow-rates, water will be wasted. They are useful, however, if they kick the system like a phase transition. Delay is most useful - both in the freshness of measured signal and the immediacy of the response. Delay is most useful - in comparison to the rate of change in the system. However, delay may not be controllable but might be a feature of the system! 
 2. Buffer -  a large stock stabilizes the system, but makes it difficult to respond quickly. The leverage point is the correct buffer sizing at design time. Too high, low response. Too low, too unstable. Typically, physical. 
