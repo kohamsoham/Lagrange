@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "मानसोल्लास Text Formatting Examples"
+title: "Text Formatting Examples"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
