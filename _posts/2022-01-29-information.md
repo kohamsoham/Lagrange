@@ -1,4 +1,12 @@
-# A good information diet 
+---
+layout: post
+title: "A good information diet"
+author: "Arun Vasan"
+categories: journal
+tags: [optimization,information]
+image: forest.jpg
+---
+ 
 Zombies are out to get you.You have a limited supply of magic pills that you need to keep consuming to keep you from becoming one. If you lose your pills to the zombies, you become a zombie. Far fetched? Hell, no!  Turns out your ability to focus and create with purpose is your supply of pills; and the zombies are all the forms of physical and digital distractions (no, I didn't mean your family) that aim to grab your attention.This piece is about my ideas on making good use of my personal supply of the magic pills and making new ones. 
 
 I used to wonder why many well-used online products were free, when even basic things are not. The middle-class me was happy that I was using "cheap and best" online products. Only later did I realize that data from our activity is the raw-material for their money-printing ML monster algorithms. I mostly escaped the Facebook mania after an initial school group, but was ensnared by Twitter for a long time. The real-time data feeds, incisive and pithy observations, smart-ass ripostes, and gotcha touches still have their charm. However, some alarm bells have belatedly and faintly started ringing in my head that I have been suckered into mostly wasting my attention. For introverts like me, observing and expressing online can be particularly addictive. You feel like you belong to something and gain useful information by just scrolling without doing the hardwork of reading a good book or having a real-world conversation. Specifically, I realized that I had the following problems:
